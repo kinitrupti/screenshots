@@ -1,0 +1,2 @@
+# screenshots
+SAP HANA screenshots
